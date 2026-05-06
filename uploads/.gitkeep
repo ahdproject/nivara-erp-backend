@@ -1,0 +1,5 @@
+# Uploads Directory
+
+This directory stores uploaded documents like agreements, KYC files, receipts, etc.
+
+Files uploaded through the `/api/documents` endpoint will be saved here.
